@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "title": "Xtoria",
+    "description": "Xtoria is a platform for creating and sharing AI agents.",
+    "keywords": "AI, agents, platform, create, share",
+    "author": "Xtoria",
+    "robots": "index, follow",
+    "canonical": "https://www.xtoria.com",
+    "ogTitle": "Xtoria",
+    "ogDescription": "Xtoria is a platform for creating and sharing AI agents.",
+    "ogImage": "https://www.xtoria.com/og-image.png",
+    "ogUrl": "https://www.xtoria.com"
+  },
+  "home": {
+    "title": "Xtoria",
+    "description": "Xtoria is a platform for creating and sharing AI agents."
+  }
+}
