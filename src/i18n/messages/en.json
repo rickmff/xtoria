@@ -12,7 +12,29 @@
     "ogUrl": "https://www.xtoria.com"
   },
   "home": {
-    "title": "Xtoria",
-    "description": "Xtoria is a platform for creating and sharing AI agents."
+    "heroImageAlt": "Delicious food",
+    "aboutImageAlt": "Setúbal landscape",
+    "galleryImage1Alt": "Chef preparing food",
+    "galleryImage2Alt": "Gourmet dish",
+    "galleryImage3Alt": "Chef plating",
+    "makeReservation": "Make a Reservation",
+    "address": "Rua Guilherme Gomes Fernandes, 37 - 2900-395 Setúbal",
+    "hello": "Hello!",
+    "aboutLine1": "Are we a restaurant? Yes, we are!",
+    "aboutLine2": "But above all, we are a team that works to bring you the best that the city of Setúbal has to offer: fresh and unique products, served with refinement and friendliness in an environment where you want to stay...and linger.",
+    "aboutLine3": "New times imply change and we believe that Setúbal has much more than good grilled fish and fried cuttlefish.",
+    "aboutLine4": "It has the soul of the Arrábida Mountains, the salty breeze of the Sado and the adventurous spirit of the fishermen who inspired us so much to want to be different.",
+    "seeMenu": "Discover our Menus",
+    "specialLunch": "SPECIAL LUNCH",
+    "specialDate": "February 19, 20, 21, 2023",
+    "coverCharge": "Cover charge 5€/person",
+    "menuItem1": "Rooster Wrap with roasted Pineapple and Coconut Cabbage, Fresh Salad and Dijon mustard sauce",
+    "menuItem2": "Pudding (Milk Jelly, Passion Fruit)",
+    "menuItem3": "1 drink (Still or sparkling water, Soft drink, Glass of wine, Beer 20cl)",
+    "menuItem4": "Coffee/Tea",
+    "openingHours": "Mon - Tue: CLOSED",
+    "openingHours2": "Wed - Sat: 12:30 - 15:00 | 19:30 - 22:30",
+    "openingHours3": "Sun: Closed",
+    "phone": "+351 961 294 144"
   }
 }

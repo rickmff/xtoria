@@ -12,7 +12,29 @@
     "ogUrl": "https://www.xtoria.com"
   },
   "home": {
-    "title": "Xtoria",
-    "description": "Xtoria é uma plataforma para criar e compartilhar agentes AI."
+    "heroImageAlt": "Comida deliciosa",
+    "aboutImageAlt": "Paisagem de Setúbal",
+    "galleryImage1Alt": "Chef preparando comida",
+    "galleryImage2Alt": "Prato gourmet",
+    "galleryImage3Alt": "Chef empratando",
+    "makeReservation": "Faça sua reserva",
+    "address": "Rua Guilherme Gomes Fernandes, 37 - 2900-395 Setúbal",
+    "hello": "Olá!",
+    "aboutLine1": "Somos um restaurante? Sim, somos!",
+    "aboutLine2": "Mas somos acima de tudo uma equipa que trabalha para trazer até si o melhor que a cidade de Setúbal tem para oferecer: produtos frescos e únicos, servidos com requinte e simpatia num ambiente onde apetece estar...e ficar.",
+    "aboutLine3": "Os novos tempos implicam mudança e acreditamos que Setúbal tem muito mais que o bom peixe assado e o choco frito.",
+    "aboutLine4": "Tem a alma da Serra da Arrábida, a brisa salgada do Sado e o espírito aventureiro dos pescadores que tanto nos inspiraram a querer ser diferentes.",
+    "seeMenu": "Conheça os nossos Menus",
+    "specialLunch": "ESPECIAL ALMOÇO",
+    "specialDate": "19, 20, 21 de fevereiro 2023",
+    "coverCharge": "Couvert 5€/pax",
+    "menuItem1": "Wrap de Galo com Ananás assado e Couve de coqueiro, Salada fresca e molho de mostarda de Dijon",
+    "menuItem2": "Pudim (Geleia Leiteira, Maracujá)",
+    "menuItem3": "1 bebida (Água com ou sem gás, Refrigerante, Copo de vinho, Cerveja 20cl)",
+    "menuItem4": "Café/Chá",
+    "openingHours": "Seg - Ter: FECHADO",
+    "openingHours2": "Qua - Sáb: 12:30 - 15:00 | 19:30 - 22:30",
+    "openingHours3": "Dom: Fechado",
+    "phone": "+351 961 294 144"
   }
 }
