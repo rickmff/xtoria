@@ -154,27 +154,28 @@ export default function IndexPage({ params }: Props) {
       {/* Footer */}
       <footer className="py-10 px-8 md:px-16 border-t border-gray-800">
         <div className="flex flex-col md:flex-row justify-between items-center">
-          <div className="flex gap-4 mb-6 md:mb-0">
-            <Link href="#" aria-label="Facebook">
-              <span className="text-xl">f</span>
-            </Link>
-            <Link href="#" aria-label="Instagram">
-              <span className="text-xl">Ⓘ</span>
-            </Link>
-            <Link href="#" aria-label="TripAdvisor">
-              <span className="text-xl">⊙</span>
-            </Link>
+          <div className="flex flex-col gap-4 mb-6 md:mb-0">
+            <div className="flex flex-col gap-2">
+              <p>{t('address')}</p>
+              <p className="text-right">{t('phone')}</p>
+            </div>
+            <div className="flex gap-2">
+              <Link href="#" aria-label="Facebook">
+                <span className="text-xl">f</span>
+              </Link>
+              <Link href="#" aria-label="Instagram">
+                <span className="text-xl">Ⓘ</span>
+              </Link>
+              <Link href="#" aria-label="TripAdvisor">
+                <span className="text-xl">⊙</span>
+              </Link>
+            </div>
           </div>
 
           <div className="text-sm mb-6 md:mb-0">
             <p>{t('openingHours')}</p>
             <p>{t('openingHours2')}</p>
             <p>{t('openingHours3')}</p>
-          </div>
-
-          <div className="text-sm">
-            <p>{t('address')}</p>
-            <p className="text-right">{t('phone')}</p>
           </div>
         </div>
       </footer>
